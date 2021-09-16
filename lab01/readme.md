@@ -1,3 +1,3 @@
 hwubh
 12345678
-![Alt text]("screenshot.png?raw=true "Optional Title"")
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
